@@ -1,0 +1,5 @@
+{
+  "name": "Gemini POS Assistant",
+  "description": "A simple Point-of-Sale (POS) application that integrates with Gemini to provide contextual insights and summaries for each transaction based on the customer's purchase history.",
+  "requestFramePermissions": []
+}
